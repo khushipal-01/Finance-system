@@ -61,6 +61,17 @@ The backend will be added in future releases with the following capabilities:
 - Mobile-friendly PWA support
 
 ---
+## Screenshots
+
+### Dashboard
+![Dashboard](Screenshot 2026-01-11 204707.png)
+
+### Login Page
+![Login](public/screenshots/login.png)
+
+### Transactions
+![Transactions](public/screenshots/transactions.png)
+
 
 ## How to Run the Project Locally
 
@@ -72,4 +83,5 @@ Verify installation:
 ```bash
 node -v
 npm -v
+
 
