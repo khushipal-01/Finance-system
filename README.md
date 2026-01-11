@@ -8,7 +8,7 @@ This application is designed to help users track income, expenses, and visualize
 ---
 
 ## Live Demo
-https://finance-system.vercel.app
+https://finance-system-818u.vercel.app 
 
 ---
 
@@ -82,6 +82,7 @@ Verify installation:
 ```bash
 node -v
 npm -v
+
 
 
 
