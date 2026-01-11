@@ -64,14 +64,10 @@ The backend will be added in future releases with the following capabilities:
 ## Screenshots
 
 ### Dashboard
-![Dashboard](Screenshot 2026-01-11 204707.png)
+![Dashboard](https://github.com/khushipal-01/Finance-system/blob/main/Screenshot%202026-01-11%20204637.png)
 
 ### Login Page
-![Login](public/screenshots/login.png)
-
-### Transactions
-![Transactions](public/screenshots/transactions.png)
-
+![Login](https://github.com/khushipal-01/Finance-system/blob/main/Screenshot%202026-01-11%20204525.png)
 
 ## How to Run the Project Locally
 
@@ -83,5 +79,6 @@ Verify installation:
 ```bash
 node -v
 npm -v
+
 
 
