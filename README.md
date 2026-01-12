@@ -70,7 +70,6 @@ The backend will be added in future releases with the following capabilities:
 
 ### Login Page
 ![Login](https://github.com/khushipal-01/Finance-system/blob/main/Screenshot%202026-01-11%20204525.png)
-(https://github.com/khushipal-01/Finance-system/blob/main/Screenshot%202026-01-11%20204707.png).
 
 ## How to Run the Project Locally
 
@@ -82,6 +81,7 @@ Verify installation:
 ```bash
 node -v
 npm -v
+
 
 
 
